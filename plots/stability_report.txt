@@ -1,0 +1,87 @@
+BPMD STABILITY ANALYSIS REPORT
+
+===================================
+
+POSE: Pose 01
+-------------
+  * Minimum Energy (Well Depth): -2.40 kcal/mol at 1.40 Å
+  * Plateau Height (Barrier):    2.40 kcal/mol
+  * Average Trial Variation:     0.53 kcal/mol
+  * Final Convergence Error:     0.08 kcal/mol
+  * Unbinding Distance (95%):    4.65 Å
+
+POSE: Pose 02
+-------------
+  * Minimum Energy (Well Depth): -1.77 kcal/mol at 2.70 Å
+  * Plateau Height (Barrier):    1.77 kcal/mol
+  * Average Trial Variation:     0.59 kcal/mol
+  * Final Convergence Error:     0.08 kcal/mol
+  * Unbinding Distance (95%):    7.25 Å
+
+POSE: Pose 03
+-------------
+  * Minimum Energy (Well Depth): -1.73 kcal/mol at 2.35 Å
+  * Plateau Height (Barrier):    1.73 kcal/mol
+  * Average Trial Variation:     0.73 kcal/mol
+  * Final Convergence Error:     0.39 kcal/mol
+  * Unbinding Distance (95%):    7.50 Å
+
+POSE: Pose 04
+-------------
+  * Minimum Energy (Well Depth): -2.10 kcal/mol at 3.30 Å
+  * Plateau Height (Barrier):    2.10 kcal/mol
+  * Average Trial Variation:     0.41 kcal/mol
+  * Final Convergence Error:     0.00 kcal/mol
+  * Unbinding Distance (95%):    6.10 Å
+
+POSE: Pose 05
+-------------
+  * Minimum Energy (Well Depth): -1.43 kcal/mol at 3.85 Å
+  * Plateau Height (Barrier):    1.43 kcal/mol
+  * Average Trial Variation:     0.67 kcal/mol
+  * Final Convergence Error:     0.18 kcal/mol
+  * Unbinding Distance (95%):    9.60 Å
+
+POSE: Pose 06
+-------------
+  * Minimum Energy (Well Depth): -1.65 kcal/mol at 3.30 Å
+  * Plateau Height (Barrier):    1.65 kcal/mol
+  * Average Trial Variation:     0.47 kcal/mol
+  * Final Convergence Error:     0.05 kcal/mol
+  * Unbinding Distance (95%):    8.25 Å
+
+POSE: Pose 07
+-------------
+  * Minimum Energy (Well Depth): -2.35 kcal/mol at 2.30 Å
+  * Plateau Height (Barrier):    2.35 kcal/mol
+  * Average Trial Variation:     0.41 kcal/mol
+  * Final Convergence Error:     0.00 kcal/mol
+  * Unbinding Distance (95%):    5.10 Å
+
+POSE: Pose 08
+-------------
+  * Minimum Energy (Well Depth): -1.53 kcal/mol at 2.25 Å
+  * Plateau Height (Barrier):    1.53 kcal/mol
+  * Average Trial Variation:     0.65 kcal/mol
+  * Final Convergence Error:     0.48 kcal/mol
+  * Unbinding Distance (95%):    8.00 Å
+
+POSE: Pose 09
+-------------
+  * Minimum Energy (Well Depth): -2.09 kcal/mol at 1.75 Å
+  * Plateau Height (Barrier):    2.09 kcal/mol
+  * Average Trial Variation:     0.48 kcal/mol
+  * Final Convergence Error:     0.00 kcal/mol
+  * Unbinding Distance (95%):    6.30 Å
+
+POSE: Pose 10
+-------------
+  * Minimum Energy (Well Depth): -1.95 kcal/mol at 2.30 Å
+  * Plateau Height (Barrier):    1.95 kcal/mol
+  * Average Trial Variation:     0.58 kcal/mol
+  * Final Convergence Error:     0.38 kcal/mol
+  * Unbinding Distance (95%):    7.20 Å
+
+CONCLUSION
+----------
+Based on the Plateau Height (Critical Barrier), Pose 01 is the most kinetically stable pose with a barrier of 2.40 kcal/mol.
